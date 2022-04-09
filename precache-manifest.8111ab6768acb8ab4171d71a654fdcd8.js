@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/jenochjones/minesweeper/static/js/runtime~main.72593c83.js"
   },
   {
-    "revision": "90a693454b21d6eed9b4c25f80a29074",
-    "url": "/jenochjones/minesweeper/static/media/bomb.90a69345.png"
-  },
-  {
     "revision": "a821390a44cf55309ab4e15a1a48d48e",
     "url": "/jenochjones/minesweeper/static/media/flag.a821390a.png"
   },
   {
-    "revision": "a4160711ad51ff12e09912932c403a1e",
+    "revision": "90a693454b21d6eed9b4c25f80a29074",
+    "url": "/jenochjones/minesweeper/static/media/bomb.90a69345.png"
+  },
+  {
+    "revision": "a3e7e2ec0994c23587f2e8a389bb5d29",
     "url": "/jenochjones/minesweeper/index.html"
   }
 ];
